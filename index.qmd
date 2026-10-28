@@ -6,45 +6,16 @@ about:
   image: img/lynx.jpg
 ---
 
+::: {#me}
+## General
+
 Even if this is for an assignment, I really don't like having a ton of stuff about me floating around on the web, so enjoy a picture of my cat instead.
 
+## Education
 
+I'm currently a second year PhD student, currently in the UNH Bioengineering program, as a member of the Linqing Li lab. My undergraduate was in Biochemistry, likewise at UNH.
 
+## Experience
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I've been doing labwork within the Li lab since about my junior year during my undergrad, at that time through a SURF grant for my own work on hydrogel degradation and how this may be used to promote and mediate angiogenesis. The paper this was a part of has since been published, and may be seen here <https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00395-4>. I have since continued in the lab as a grad student and am doing my own projects now, which currently focus on the role of mechanical confinment and interfaces within spheroid laden hydrogels for the purposes of engineering vascularization and angiogenesis *in vitro*.
+:::

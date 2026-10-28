@@ -3,17 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/lynx.jpg
 ---
 
-:::{#me}
-
-## Goals
-
-## Education
-
-## Experience
-
-:::
-
-Thanks for checking out my web site!
+Even if this is for an assignment, I really don't like having a ton of stuff about me floating around on the web, so enjoy a picture of my cat instead.
